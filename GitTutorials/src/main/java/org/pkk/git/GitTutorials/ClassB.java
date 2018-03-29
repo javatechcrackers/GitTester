@@ -6,7 +6,7 @@ public class ClassB {
 		new Thread(
 				() -> {
 					
-					System.out.println("CLASS B");
+					System.out.println("CLASS B-B");
 				}
 				).start();
 			
